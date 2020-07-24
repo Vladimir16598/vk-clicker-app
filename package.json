@@ -2,6 +2,7 @@
   "name": "love_click",
   "version": "1.0.0",
   "description": "[<img width=\"134\" src=\"https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg\">](https://vk.com/services)",
+  "homepage": "./src/panels/Home.js",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
