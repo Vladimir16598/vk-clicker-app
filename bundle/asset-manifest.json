@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57027e10.chunk.css",
+    "main.js": "/static/js/main.bad6b60e.chunk.js",
+    "main.js.map": "/static/js/main.bad6b60e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d77ae6d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d77ae6d4.js.map",
+    "static/css/2.86df01db.chunk.css": "/static/css/2.86df01db.chunk.css",
+    "static/js/2.1b9b2553.chunk.js": "/static/js/2.1b9b2553.chunk.js",
+    "static/js/2.1b9b2553.chunk.js.map": "/static/js/2.1b9b2553.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9966e734b3af3a340c312cd953b48a82.js": "/precache-manifest.9966e734b3af3a340c312cd953b48a82.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.57027e10.chunk.css.map": "/static/css/main.57027e10.chunk.css.map",
+    "static/js/2.1b9b2553.chunk.js.LICENSE.txt": "/static/js/2.1b9b2553.chunk.js.LICENSE.txt",
+    "static/media/Esse.svg": "/static/media/Esse.e57bce24.svg",
+    "static/media/HeartButton.svg": "/static/media/HeartButton.6ae78314.svg",
+    "static/media/catBread.svg": "/static/media/catBread.dc13598f.svg",
+    "static/media/catInHat.svg": "/static/media/catInHat.3bedf825.svg",
+    "static/media/catLiza.svg": "/static/media/catLiza.39a399e6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77ae6d4.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.1b9b2553.chunk.js",
+    "static/css/main.57027e10.chunk.css",
+    "static/js/main.bad6b60e.chunk.js"
+  ]
+}
